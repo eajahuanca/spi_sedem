@@ -2,3 +2,17 @@ hola este es un contenido
 pon cualquier comentario
 Tomando nota choko!!! guaradalo, listo
 ahora mira vamos a usar vscode q tien git incorporado
+ahora crea un archivo html
+pasos.
+1.- cuando se crea un arhivo o se modifica le pones un nombre a todo ese conjunto en este caso al archivo txt y htmles decir se esta
+haciendo cambios al txt y creando uno nuevo en el html
+2.- confirmar (commit)
+3.- aqui hay q tener cuidado como vamos a hacer commits ambos, siempre debes de consultar si no se realizaon cambios en el repositorio
+esto se hace con pull (git pull)
+4.- ahora bien aqui una vez verificado hacemos push (git push)
+listo asi es la secuencia
+ahora hazlo tu quiero ver que subas estos archivos modificados
+lo vas ha hacer con la herramienta vs code... si puedes con git bash
+tienes alguna duda o lo hago yo este y luego tu
+>>>>Si por fa esta mas vos pa q vea y ya despues te digo si tengo dudas
+>>>>dale, te fijas porfa
