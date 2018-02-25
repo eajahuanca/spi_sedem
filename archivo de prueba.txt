@@ -1,1 +1,4 @@
 hola este es un contenido
+pon cualquier comentario
+Tomando nota choko!!! guaradalo, listo
+ahora mira vamos a usar vscode q tien git incorporado
