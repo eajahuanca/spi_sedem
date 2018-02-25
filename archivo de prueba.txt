@@ -16,3 +16,5 @@ lo vas ha hacer con la herramienta vs code... si puedes con git bash
 tienes alguna duda o lo hago yo este y luego tu
 >>>>Si por fa esta mas vos pa q vea y ya despues te digo si tengo dudas
 >>>>dale, te fijas porfa
+>>>>ahora yo hare un cambio aqui, bueno desde mi local y tu haras pull posi?
+>>>>su justo esa era mi duda , ddaalele
