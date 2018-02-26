@@ -1,6 +1,6 @@
 <?php
 echo "hola fabian"
 function test(){
-    echo "mas hola";
+    echo "mas hola probando";
 }
 ?>
